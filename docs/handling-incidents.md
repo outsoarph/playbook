@@ -16,13 +16,33 @@ We use the following severity levels to classify incidents based on their impact
 
 **Level 1 (Critical):** These are issues that bring business operations to a halt. They require an immediate response within 1 hour, frequent updates every 2 hours, and resolution as quickly as possible.
 
+- Website is completely down and inaccessible to all users.
+- Major security breach or hack that threatens sensitive data.
+- Loss of critical e-commerce functionality during peak sales hours.
+
 **Level 2 (High):** These issues have a major impact on business operations but may not completely halt them. They require a response within 2 hours, updates every 4 hours, and resolution within 24 hours.
+
+- Critical plugin or theme conflict causing the site to malfunction.
+- Frequent 500 Internal Server Errors impacting user experience.
+- Significant performance degradation leading to slow page load times.
 
 **Level 3 (Moderate):** These issues disrupt business operations but are not critical. They require a response within 4 hours, daily updates, and resolution within 3 days.
 
+- Broken contact forms or non-critical website features.
+- Minor security vulnerabilities that need immediate patching.
+- Some pages or content not displaying properly in specific browsers.
+
 **Level 4 (Low):** These issues have a minor impact on business operations. They require a response within 8 hours, updates every 2-3 days, and resolution within 7 days.
 
+- Minor styling issues that don't significantly affect usability.
+- Non-critical plugin updates or compatibility issues.
+- Infrequent 404 errors for pages with low traffic.
+
 **Level 5 (Informational):** These are informational cases that have minimal or no immediate impact on business operations. They require a response within 24 hours, updates as needed, and resolution as needed.
+
+- Routine website maintenance or updates that don't affect functionality.
+- General website performance optimization suggestions.
+- Informational notifications like scheduled downtime for maintenance.
 
 ## Resources
 
