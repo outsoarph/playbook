@@ -4,6 +4,8 @@ At Outsoar, we prioritize transparent and accountable incident management. We co
 
 ## Serevity Levels
 
+We use the following severity levels to classify incidents based on their impact on business operations:
+
 | Level | Description                            | Initial Response Within | Update Case Frequency | Resolution      |
 | ----- | -------------------------------------- | ----------------------- | --------------------- | --------------- |
 | 1     | Critical: Business Halt                | 1 hour                  | Every 2 hours         | Immediate       |
@@ -12,17 +14,15 @@ At Outsoar, we prioritize transparent and accountable incident management. We co
 | 4     | Low: Minor Business Impact             | 8 hours                 | Every 2-3 days        | Within 7 days   |
 | 5     | Informational: Minimal Business Impact | 24 hours                | As needed             | As needed       |
 
-**Explanation:**
+**Level 1 (Critical):** These are issues that bring business operations to a halt. They require an immediate response within 1 hour, frequent updates every 2 hours, and resolution as quickly as possible.
 
-1. **Level 1 (Critical):** These are issues that bring business operations to a halt. They require an immediate response within 1 hour, frequent updates every 2 hours, and resolution as quickly as possible.
+**Level 2 (High):** These issues have a major impact on business operations but may not completely halt them. They require a response within 2 hours, updates every 4 hours, and resolution within 24 hours.
 
-2. **Level 2 (High):** These issues have a major impact on business operations but may not completely halt them. They require a response within 2 hours, updates every 4 hours, and resolution within 24 hours.
+**Level 3 (Moderate):** These issues disrupt business operations but are not critical. They require a response within 4 hours, daily updates, and resolution within 3 days.
 
-3. **Level 3 (Moderate):** These issues disrupt business operations but are not critical. They require a response within 4 hours, daily updates, and resolution within 3 days.
+**Level 4 (Low):** These issues have a minor impact on business operations. They require a response within 8 hours, updates every 2-3 days, and resolution within 7 days.
 
-4. **Level 4 (Low):** These issues have a minor impact on business operations. They require a response within 8 hours, updates every 2-3 days, and resolution within 7 days.
-
-5. **Level 5 (Informational):** These are informational cases that have minimal or no immediate impact on business operations. They require a response within 24 hours, updates as needed, and resolution as needed.
+**Level 5 (Informational):** These are informational cases that have minimal or no immediate impact on business operations. They require a response within 24 hours, updates as needed, and resolution as needed.
 
 ## Resources
 
@@ -34,10 +34,10 @@ At Outsoar, we prioritize transparent and accountable incident management. We co
 
 ### Internal Tools
 
-- **Communication:** Discord
-- **Project Management:** Github Projects
+- **Communication:** Discord, Slack, Email, and Phone
+- **Project Management:** Github Projects or similar like Asana, ClickUp, etc.
 - **Documentation:** Google Docs
-- **Code Repository:** GitHub
+- **Code Repository:** GitHub if applicable
 - **Monitoring:** UptimeRobot | Outsoar is currently developing same tool.
 
 ## Workflow Process
