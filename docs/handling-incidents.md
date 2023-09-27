@@ -49,8 +49,10 @@ We use the following severity levels to classify incidents based on their impact
 ### Team
 
 - **Point of Contact:** Marlon
-- **Holidays Skeleton Team:** Ashley, Tyzer
-- **Normal Days:** Marlon and the entire team
+- **Quick Response Team:** Ashley Solomon, Marlon
+- **Consultant:** Ashley and Outsoar's Consultant Team
+- **Communications:** Tyzer
+- **Normal Days Operations:** Marlon and the entire team
 
 ### Internal Tools
 
@@ -64,17 +66,17 @@ We use the following severity levels to classify incidents based on their impact
 
 1. **Emergency Submission:** When a website emergency occurs outside of normal working hours on holidays or weekends, the issue should be reported through the designated emergency channel (e.g., a dedicated email address or a communication platform like Slack).
 
-2. **Initial Triage (Holidays Skeleton Team):** The holidays skeleton team (Ashley Solomon, Jayr, Tyzer) will be responsible for initial triage of the issue. They will monitor the emergency channel during their scheduled shifts.
+2. **Initial Triage (Quick Response Team):** The Quick Response Team will be responsible for initial triage of the issue. They will monitor the emergency channel during their scheduled shifts.
 
-3. **Notification:** If any of the holidays skeleton team members receive an emergency notification, they must immediately acknowledge it and begin investigating the issue.
+3. **Notification:** If any of the Quick Response Team members receive an emergency notification, they must immediately acknowledge it and begin investigating the issue.
 
-4. **Assessment:** The holidays skeleton team will assess the severity of the issue. If it's a critical error or a website down situation, they will escalate it as a high-priority incident.
+4. **Assessment:** The Quick Response Team will assess the severity of the issue. If it's a critical error or a website down situation, they will escalate it as a high-priority incident.
 
-5. **Immediate Action:** Depending on the severity, the holidays skeleton team will take immediate action to resolve the issue or, at the very least, stabilize the situation. This may involve rollback procedures, server restarts, or other critical actions.
+5. **Immediate Action:** Depending on the severity, the Quick Response Team will take immediate action to resolve the issue or, at the very least, stabilize the situation. This may involve rollback procedures, server restarts, or other critical actions.
 
-6. **Communication:** The holidays skeleton team will maintain clear communication within their team and with Marlon, the point of contact, regarding the progress of the resolution efforts.
+6. **Communication:** The Quick Response Team will maintain clear communication within their team and with Marlon, the point of contact, regarding the progress of the resolution efforts.
 
-7. **Escalation (if needed):** If the issue cannot be resolved by the holidays skeleton team or requires additional expertise, they will escalate it to Marlon and provide all relevant details.
+7. **Escalation (if needed):** If the issue cannot be resolved by the Quick Response Team or requires additional expertise, they will escalate it to Marlon and provide all relevant details.
 
 8. **Marlon's Involvement:** Marlon, as the point of contact, will be on standby during holidays and weekends to assist with critical issues if needed. He will also be responsible for making decisions regarding further escalation, involving additional team members, or engaging external resources.
 
@@ -82,6 +84,23 @@ We use the following severity levels to classify incidents based on their impact
 
 10. **Documentation:** Detailed documentation of the incident, including what actions were taken and their outcomes, will be maintained for post-incident analysis and reporting.
 
-11. **Resolution and Follow-Up:** Once the issue is resolved or stabilized, the holidays skeleton team will communicate the resolution to the concerned parties and ensure that the website is back to normal operation.
+11. **Resolution and Follow-Up:** Once the issue is resolved or stabilized, the Quick Response Team will communicate the resolution to the concerned parties and ensure that the website is back to normal operation.
 
-12. **Handover (Normal Days):** When normal working hours resume, Marlon will take over incident management responsibilities from the holidays skeleton team. He will ensure that any lingering issues are fully addressed and conduct a post-incident review to identify root causes and preventive measures.
+12. **Handover (Normal Days):** When normal working hours resume, Marlon will take over incident management responsibilities from the Quick Response Team. He will ensure that any lingering issues are fully addressed and conduct a post-incident review to identify root causes and preventive measures.
+
+## RASI Matrix
+
+| Step                                     | Responsible              | Accountable      | Support    | Informed       |
+| ---------------------------------------- | ------------------------ | ---------------- | ---------- | -------------- |
+| **Emergency Submission**                 | Client, Point of Contact | Point of Contact | Consultant | Communications |
+| **Initial Triage (Quick Response Team)** | Quick Response Team      | Point of Contact | Consultant | Communications |
+| **Notification**                         | Quick Response Team      | Point of Contact | Consultant | Communications |
+| **Assessment**                           | Quick Response Team      | Point of Contact | Consultant | Communications |
+| **Immediate Action**                     | Quick Response Team      | Point of Contact | Consultant | Communications |
+| **Communication**                        | Quick Response Team      | Point of Contact | Consultant | Communications |
+| **Escalation (if needed)**               | Quick Response Team      | Point of Contact | Consultant | Communications |
+| **Marlon's Involvement**                 | Point of Contact         | Point of Contact | Consultant | Communications |
+| **Regular Updates**                      | Quick Response Team      | Point of Contact | Consultant | Communications |
+| **Documentation**                        | Quick Response Team      | Point of Contact | Consultant | Communications |
+| **Resolution and Follow-Up**             | Quick Response Team      | Point of Contact | Consultant | Communications |
+| **Handover (Normal Days)**               | Point of Contact         | Point of Contact | Consultant | Communications |
