@@ -1,5 +1,7 @@
 # Handling Incidents
 
+At Outsoar, we prioritize transparent and accountable incident management. We communicate openly, ensure clear roles, and take responsibility for effective incident resolution. This approach maintains trust, minimizes disruptions, and enhances our brand's reliability and resilience.
+
 ## Serevity Levels
 
 Certainly, here's a severity table for sites and applications regarding business requirements:
@@ -11,20 +13,6 @@ Certainly, here's a severity table for sites and applications regarding business
 | 3     | Moderate: Business Disruption          | 4 hours                 | Daily                 | Within 3 days   |
 | 4     | Low: Minor Business Impact             | 8 hours                 | Every 2-3 days        | Within 7 days   |
 | 5     | Informational: Minimal Business Impact | 24 hours                | As needed             | As needed       |
-
-Explanation:
-
-Level 1 (Critical): These are issues that bring business operations to a halt. They require an immediate response within 1 hour, frequent updates every 2 hours, and resolution as quickly as possible.
-
-Level 2 (High): These issues have a major impact on business operations but may not completely halt them. They require a response within 2 hours, updates every 4 hours, and resolution within 24 hours.
-
-Level 3 (Moderate): These issues disrupt business operations but are not critical. They require a response within 4 hours, daily updates, and resolution within 3 days.
-
-Level 4 (Low): These issues have a minor impact on business operations. They require a response within 8 hours, updates every 2-3 days, and resolution within 7 days.
-
-Level 5 (Informational): These are informational cases that have minimal or no immediate impact on business operations. They require a response within 24 hours, updates as needed, and resolution as needed.
-
-This severity table helps prioritize and manage issues related to sites and applications based on their impact on business requirements, ensuring that critical issues are addressed with the highest priority and lesser-impact issues receive appropriate attention.
 
 **Explanation:**
 
