@@ -90,6 +90,8 @@ We use the following severity levels to classify incidents based on their impact
 
 ## RASI Matrix
 
+Outsoar's incident management process is a collaborative effort involving the following roles:
+
 | Step                                     | Responsible              | Accountable      | Support    | Informed       |
 | ---------------------------------------- | ------------------------ | ---------------- | ---------- | -------------- |
 | **Emergency Submission**                 | Client, Point of Contact | Point of Contact | Consultant | Communications |
