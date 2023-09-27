@@ -4,8 +4,6 @@ At Outsoar, we prioritize transparent and accountable incident management. We co
 
 ## Serevity Levels
 
-Certainly, here's a severity table for sites and applications regarding business requirements:
-
 | Level | Description                            | Initial Response Within | Update Case Frequency | Resolution      |
 | ----- | -------------------------------------- | ----------------------- | --------------------- | --------------- |
 | 1     | Critical: Business Halt                | 1 hour                  | Every 2 hours         | Immediate       |
@@ -25,8 +23,6 @@ Certainly, here's a severity table for sites and applications regarding business
 4. **Level 4 (Low):** These issues have a minor impact on business operations. They require a response within 8 hours, updates every 2-3 days, and resolution within 7 days.
 
 5. **Level 5 (Informational):** These are informational cases that have minimal or no immediate impact on business operations. They require a response within 24 hours, updates as needed, and resolution as needed.
-
-This severity table helps prioritize and manage issues related to sites and applications based on their impact on business requirements, ensuring that critical issues are addressed with the highest priority and lesser-impact issues receive appropriate attention.
 
 ## Resources
 
@@ -69,5 +65,3 @@ This severity table helps prioritize and manage issues related to sites and appl
 11. **Resolution and Follow-Up:** Once the issue is resolved or stabilized, the holidays skeleton team will communicate the resolution to the concerned parties and ensure that the website is back to normal operation.
 
 12. **Handover (Normal Days):** When normal working hours resume, Marlon will take over incident management responsibilities from the holidays skeleton team. He will ensure that any lingering issues are fully addressed and conduct a post-incident review to identify root causes and preventive measures.
-
-This workflow process ensures that website emergencies are promptly addressed, even during holidays and weekends. It also maintains clear communication channels and responsibilities for different team members to ensure effective incident management.
