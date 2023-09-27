@@ -49,7 +49,7 @@ We use the following severity levels to classify incidents based on their impact
 ### Team
 
 - **Point of Contact:** Marlon
-- **Quick Response Team:** Ashley Solomon, Marlon
+- **Quick Response Team:** Ashley Solomon, Marlon and available team member(s) if needed.
 - **Consultant:** Ashley and Outsoar's Consultant Team
 - **Communications:** Tyzer
 - **Normal Days Operations:** Marlon and the entire team
@@ -92,17 +92,17 @@ We use the following severity levels to classify incidents based on their impact
 
 Outsoar's incident management process is a collaborative effort involving the following roles:
 
-| Step                                     | Responsible              | Accountable      | Support    | Informed       |
-| ---------------------------------------- | ------------------------ | ---------------- | ---------- | -------------- |
-| **Emergency Submission**                 | Client, Point of Contact | Point of Contact | Consultant | Communications |
-| **Initial Triage (Quick Response Team)** | Quick Response Team      | Point of Contact | Consultant | Communications |
-| **Notification**                         | Quick Response Team      | Point of Contact | Consultant | Communications |
-| **Assessment**                           | Quick Response Team      | Point of Contact | Consultant | Communications |
-| **Immediate Action**                     | Quick Response Team      | Point of Contact | Consultant | Communications |
-| **Communication**                        | Quick Response Team      | Point of Contact | Consultant | Communications |
-| **Escalation (if needed)**               | Quick Response Team      | Point of Contact | Consultant | Communications |
-| **Marlon's Involvement**                 | Point of Contact         | Point of Contact | Consultant | Communications |
-| **Regular Updates**                      | Quick Response Team      | Point of Contact | Consultant | Communications |
-| **Documentation**                        | Quick Response Team      | Point of Contact | Consultant | Communications |
-| **Resolution and Follow-Up**             | Quick Response Team      | Point of Contact | Consultant | Communications |
-| **Handover (Normal Days)**               | Point of Contact         | Point of Contact | Consultant | Communications |
+| Step                                     | Responsible                      | Accountable      | Support          | Informed               |
+| ---------------------------------------- | -------------------------------- | ---------------- | ---------------- | ---------------------- |
+| **Emergency Submission**                 | Client                           | Communications   | Consultant       | Point of Contact       |
+| **Initial Triage (Quick Response Team)** | Communications                   | Consultant       | Point of Contact | Point of Contact       |
+| **Notification**                         | Point of Contact, Communications | Point of Contact | Consultant       | Consultant             |
+| **Assessment**                           | Consultant, Point of Contact     | Client           | Consultant       | Client                 |
+| **Immediate Action**                     | Point of Contact                 | Point of Contact | Consultant       | Communications         |
+| **Communication**                        | Communications                   | Point of Contact | Consultant       | Client                 |
+| **Escalation (if needed)**               | Point of Contact                 | Client           | Consultant       | Communications, Client |
+| **Marlon's Involvement**                 | Point of Contact                 | Point of Contact | Consultant       | Communications         |
+| **Regular Updates**                      | Communications, Point of Contact | Consultant       | Consultant       | Client                 |
+| **Documentation**                        | Communications, Point of Contact | Point of Contact | Consultant       | Client                 |
+| **Resolution and Follow-Up**             | Client                           | Point of Contact | Consultant       | Client, Communications |
+| **Handover (Normal Days)**               | Point of Contact                 | Consultant       | Consultant       | Communications         |
