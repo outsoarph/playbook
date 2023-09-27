@@ -88,11 +88,11 @@ We use the following severity levels to classify incidents based on their impact
 
 12. **Handover (Normal Days):** When normal working hours resume, Marlon will take over incident management responsibilities from the Quick Response Team. He will ensure that any lingering issues are fully addressed and conduct a post-incident review to identify root causes and preventive measures.
 
-## RASI Matrix
+## RACI Matrix
 
 Outsoar's incident management process is a collaborative effort involving the following roles:
 
-| Step                                     | Responsible                      | Accountable      | Support          | Informed               |
+| Step                                     | Responsible                      | Accountable      | Consulted        | Informed               |
 | ---------------------------------------- | -------------------------------- | ---------------- | ---------------- | ---------------------- |
 | **Emergency Submission**                 | Client                           | Communications   | Consultant       | Point of Contact       |
 | **Initial Triage (Quick Response Team)** | Communications                   | Consultant       | Point of Contact | Point of Contact       |
