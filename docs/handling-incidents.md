@@ -28,8 +28,8 @@ We use the following severity levels to classify incidents based on their impact
 
 ### Team
 
-- **Point of Contact:** Marlon Galicia
-- **Holidays Skeleton Team:** Ashley Solomon, Jayr, Tyzer
+- **Point of Contact:** Marlon
+- **Holidays Skeleton Team:** Ashley, Tyzer
 - **Normal Days:** Marlon and the entire team
 
 ### Internal Tools
