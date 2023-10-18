@@ -12,21 +12,13 @@ export default defineUserConfig({
         link: '/',
       },
       {
-        text: 'Process',
-        link: '/process/',
+        text: 'Help',
+        link: '/help',
       },
       {
-        text: 'Sales',
-        link: '/sales/',
+        text: 'About',
+        link: '/about',
       },
-      {
-        text: 'Tech',
-        link: '/tech/',
-      },
-      {
-        text: 'Support',
-        link: '/support/',
-      }
     ],
   }),
 })
