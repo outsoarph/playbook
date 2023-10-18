@@ -55,4 +55,4 @@ Stand up meeting is a daily meeting that is held to keep the team in sync. It is
 ## Resources
 
 - [Atlassian Standup Meeting](https://www.atlassian.com/agile/scrum/standups)
-- [Scrum Standup Meeting](https://www.scrum.org/resources/what-is-a-daily-stand-up)
+- [Scrum Standup Meeting](https://www.scrum.org/forum/scrum-forum/32936/daily-standup-notes)

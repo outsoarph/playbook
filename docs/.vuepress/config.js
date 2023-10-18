@@ -1,5 +1,5 @@
 import { defineUserConfig, defaultTheme } from 'vuepress'
-import { copyCodePlugin } from "vuepress-plugin-copy-code2";
+
 export default defineUserConfig({
   lang: 'en-US',
   title: 'Outsoar Playbook',
@@ -21,7 +21,4 @@ export default defineUserConfig({
       },
     ],
   }),
-  plugins: [
-    copyCodePlugin({}),
-  ],
 })
