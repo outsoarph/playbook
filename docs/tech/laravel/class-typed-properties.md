@@ -1,4 +1,3 @@
-
 # Class Typed Properties
 
 It is recommended to use type hints for properties whenever possible instead of relying solely on docblocks.

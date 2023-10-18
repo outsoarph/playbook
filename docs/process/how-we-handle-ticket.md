@@ -14,4 +14,4 @@
 
 ## 6. If the ticket is not clear, ask for clarification
 
-## 7. If the ticket is in progress. 
+## 7. If the ticket is in progress.
