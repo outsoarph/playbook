@@ -22,7 +22,7 @@ A playbook is a collection of guides, best practices, and recommendations that h
 
 ## How to use this playbook?
 
-Just read it. It's that simple. You can also use the search bar to find what you are looking for.
+Just read it. It's that simple. You can also use the search bar to find what you are looking for. You can navigate the playbook by main categories or by tags. Categories are broad topics, while tags are more specific. If you visit a category page, You will see all the pages arranged in a tree structure from A-Z. 
 
 ## How to contribute?
 

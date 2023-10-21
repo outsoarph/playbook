@@ -1,11 +1,11 @@
 import { defineClientConfig } from '@vuepress/client'
-import LayoutIndex from './layouts/Index.vue'
+import LayoutCategory from './layouts/Category.vue'
 
 export default defineClientConfig({
   enhance({ app, router, siteData }) {},
   setup() {},
   rootComponents: [],
   layouts: {
-    LayoutIndex
+    category: LayoutCategory
   },
 })

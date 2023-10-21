@@ -1,3 +1,8 @@
+---
+title: Process
+description: Category for process related documents.
+---
+
 # Process
 
 Process category onboarding, offboarding, and other processes that are agreed and review upon.
@@ -9,7 +14,7 @@ Process category onboarding, offboarding, and other processes that are agreed an
 
 ## O
 
-- [Onboarding](onboarding.md)
+- [Onboarding a Coworker](onboarding-a-coworker.md)
 - [Offboarding](offboarding.md)
 
 ## S

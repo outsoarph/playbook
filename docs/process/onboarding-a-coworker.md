@@ -1,4 +1,10 @@
-# Onboarding
+---
+title: Onboarding a Coworker
+description: Coworker guide to onboarding.
+date: 2023-11-22
+---
+
+# Onboarding a Coworker
 
 **Welcome to the team**! We are excited to have you on board. We are looking forward to working with you.
 
@@ -29,6 +35,7 @@ For the smooth onboarding of our new team members, we have created this document
 Outsoar is committed to protecting the privacy our each coworker. We will not share any information about our clients or our team members with anyone outside of Outsoar. We will not share any information about our clients or our team members with anyone inside of Outsoar without the permission of the client or the team member. 
 
 Outsoar will collect and store the following for each team member:
+
 **Personal Information**
 - Name
 - Email
@@ -37,11 +44,13 @@ Outsoar will collect and store the following for each team member:
 - Birthday
 - Bank Account Number 
 - Bank Account Name
+
 **Goverment Issued Identifications**
 - Social Security Number
 - Philhealth Number
 - Tax Identification Number
 - Pag-ibig Number
+  
 **Emergency Contact**
 - Name
 - Email
@@ -52,7 +61,7 @@ Outsoar will collect and store the following for each team member:
 
 Compliant to the Data Privacy Act of 2012 (Republic Act No. 10173)
 
-## Non Disclosure Agreement
+## Non-Disclosure Agreement
 
 ## Inventory 
 
