@@ -1,4 +1,5 @@
 import { defineUserConfig, defaultTheme } from 'vuepress'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 
 export default defineUserConfig({
   lang: 'en-US',
@@ -20,4 +21,13 @@ export default defineUserConfig({
       },
     ],
   }),
+  plugins: [ docsearchPlugin({
+    apiKey: '773c0bdd07d5f8f011499c70ebf1b6fa',
+    indexName: 'playbook-outsoar',
+    appId: 'ZWU9Y2C1JS',
+    placeholder: 'Search',
+    searchParameters: {
+      facetFilters: ['language:en'],
+    },
+  }) ],
 })
