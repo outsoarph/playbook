@@ -3,8 +3,8 @@ import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 
 export default defineUserConfig({
   lang: 'en-US',
-  title: 'Outsoar Playbook',
-  description: 'Collection of best practices, guidelines, standards, recommendations, and conventions for Outsoar to provide better service.',
+  title: 'Playbook',
+  description: "Outsoar\'s collection of strategies, best practices, guidelines, standards, recommendations, and conventions to provide better service.",
   theme: defaultTheme({
     navbar: [
       {
@@ -12,14 +12,17 @@ export default defineUserConfig({
         link: '/',
       },
       {
-        text: 'Help',
-        link: '/help',
+        text: 'Guide',
+        link: '/guide',
       },
       {
         text: 'About',
         link: '/about',
       },
     ],
+    editLinkText: 'Edit this page on GitHub',
+    logo: 'images/logo.png',
+    repo: 'outsoar/playbook',
   }),
   plugins: [ docsearchPlugin({
     apiKey: '773c0bdd07d5f8f011499c70ebf1b6fa',
@@ -29,5 +32,5 @@ export default defineUserConfig({
     searchParameters: {
       facetFilters: ['language:en'],
     },
-  }) ],
+  })],
 })

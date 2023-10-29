@@ -2,28 +2,27 @@
 home: true
 title: Home | Outsoar Playbook
 description: Outsoar Playbooks
+tagline: Peer-reviewed and turnkey playbook for Outsoar
+actions: 
+  - text: Get Started
+    link: /guide/
+    type: primary
+  - text: About
+    link: /about/
+    type: secondary
+features:
+  - title: Communications
+    details: How we communicate with each other and with our clients.
+  - title: Process
+    details: How we do things.
+  - title: Support
+    details: How we handle support requests.
+  - title: Sales
+    details: How we sell our services.
+  - title: Tech
+    details: How we build things.
+  - title: Health
+    details: How we take care of ourselves. 
+footer: MIT Licensed | Copyrightt © 2023-present Outsoar  
+
 ---
-
-## Overview
-
-To provide top-notch service to our clients, we need to be at the top of our game. This playbook is a collection of guides, best practices, and recommendations that help you to do things better.
-
-## Main Categories
-
-- [Communications](communications/index.md)
-- [Process](process/index.md)
-- [Support](support/index.md)
-- [Sales](sales/index.md)
-- [Tech](tech/index.md)
-
-## What is a playbook?
-
-A playbook is a collection of guides, best practices, and recommendations that help you to do things better.
-
-## How to use this playbook?
-
-Just read it. It's that simple. You can also use the search bar to find what you are looking for. You can navigate the playbook by main categories or by tags. Categories are broad topics, while tags are more specific. If you visit a category page, You will see all the pages arranged in a tree structure from A-Z. 
-
-## How to contribute?
-
-This playbook is a living document. It is constantly evolving and improving. If you have any suggestions, please feel free to open an issue or submit a pull request.
