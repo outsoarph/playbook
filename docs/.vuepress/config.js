@@ -22,7 +22,7 @@ export default defineUserConfig({
     ],
     editLinkText: 'Edit this page on GitHub',
     logo: 'images/logo.png',
-    repo: 'outsoar/playbook',
+    repo: 'outsoarph/playbook',
   }),
   plugins: [ docsearchPlugin({
     apiKey: '773c0bdd07d5f8f011499c70ebf1b6fa',

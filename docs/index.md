@@ -23,6 +23,5 @@ features:
     details: How we build things.
   - title: Health
     details: How we take care of ourselves. 
-footer: MIT Licensed | Copyrightt © 2023-present Outsoar  
-
+footer: MIT Licensed | Copyrightt © 2023-present Outsoar
 ---
