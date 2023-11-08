@@ -1,0 +1,15 @@
+:root {
+    // brand colors
+    --c-brand: #00a09f;
+    --c-brand-light: #00be9f;
+}
+
+html.dark {
+    // brand colors
+    --c-brand: #00be9f  ;
+    --c-brand-light: #00a09f;
+
+    // font vars should be Poppins
+    --font-family: 'Poppins', sans-serif;
+    --font-family-code: 'Poppins', sans-serif;
+}
