@@ -11,7 +11,7 @@ export const sidebar = {
       ],
     '/services/': [
         {
-            text: 'Process',
+            text: 'Services',
             children: [
                 '/services/README.md',
                 {

@@ -9,6 +9,7 @@ export const navbar = [
         children: [
             {
                 text: 'Collaboration',
+                link: '/services/collaboration/README.md',
                 children: [ 
                     {
                         text: 'Staff Augmentation',
@@ -34,5 +35,5 @@ export const navbar = [
                 ],
             },
         ]
-    }
+    },
 ]
