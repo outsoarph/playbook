@@ -19,7 +19,8 @@ export default defineUserConfig({
     editLinkPattern: ':repo/edit/:branch/:path',
   }),
   plugins: [ docsearchPlugin({
-    apiKey: '773c0bdd07d5f8f011499c70ebf1b6fa',
+    // apiKey: '773c0bdd07d5f8f011499c70ebf1b6fa',
+    apiKey: '91062141f601231fa4b77513931e3a3f',
     indexName: 'playbook-outsoar',
     appId: 'ZWU9Y2C1JS',
     placeholder: 'Search',
