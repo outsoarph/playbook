@@ -23,13 +23,18 @@ export default defineUserConfig({
   plugins: [
     docsearchPlugin({
       // apiKey: '773c0bdd07d5f8f011499c70ebf1b6fa',
-      apiKey: "91062141f601231fa4b77513931e3a3f",
+      // apiKey: "91062141f601231fa4b77513931e3a3f",
+      apiKey: "329016198726b3f531f2a9fc4398509f",
       indexName: "playbook-outsoar",
       appId: "ZWU9Y2C1JS",
       placeholder: "Search",
       searchParameters: {
         facetFilters: ["language:en"],
       },
+      debug: true,
+      algoliaOptions: {
+        hitsPerPage: 10,
+      },   
     }),
     sitemapPlugin({
       hostname: "https://playbook.outsoar.ph/",
