@@ -1,0 +1,1 @@
+import{_ as o,o as a,c as r,b as e,d as t}from"./app-biPhf5qH.js";const n={},c=e("h1",{id:"offboarding",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#offboarding","aria-hidden":"true"},"#"),t(" Offboarding")],-1),d=[c];function f(s,i){return a(),r("div",null,d)}const h=o(n,[["render",f],["__file","offboarding.html.vue"]]);export{h as default};
