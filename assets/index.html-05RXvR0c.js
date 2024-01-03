@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"Getting Started","lang":"en-US","frontmatter":{"title":"Getting Started","description":"How to create a playbook page"},"headers":[],"git":{"updatedTime":1699191167000,"contributors":[{"name":"Ashley Solomon","email":"ashcslmn@gmail.com","commits":1}]},"filePathRelative":"guide/README.md"}');export{t as data};

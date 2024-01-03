@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-63e2606a","path":"/services/collaboration/white-label.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1699191167000,"contributors":[{"name":"Ashley Solomon","email":"ashcslmn@gmail.com","commits":1}]},"filePathRelative":"services/collaboration/white-label.md"}');export{e as data};
