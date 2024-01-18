@@ -9,6 +9,9 @@ export default defineUserConfig({
   title: "Playbook",
   description:
     "Outsoar's collection of strategies, best practices, guidelines, standards, recommendations, and conventions to provide better service.",
+  head: [
+    ['link', { rel: 'icon', href: '/images/favicon.ico' }]
+  ],
   theme: defaultTheme({
     navbar: navbar,
     sidebar: sidebar,

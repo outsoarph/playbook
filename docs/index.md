@@ -2,7 +2,11 @@
 home: true
 title: Home | Outsoar Playbook
 description: Outsoar Playbooks
-tagline: Peer-reviewed and turnkey playbook for Outsoar
+tagline: Our guide to collaborating and coding.
+heroHeight: 400
+heroText: Playbook
+heroAlt: Outsoar Playbook
+heroImage: /images/code-learning-2.png
 actions: 
   - text: Get Started
     link: /guide/
@@ -10,19 +14,25 @@ actions:
   - text: About
     link: /about/
     type: secondary
-# features:
-#   - title: Lifecycle
-#     details: At our agency, we streamline your projects with our comprehensive project lifecycle guide, ensuring every step from concept to delivery is well-defined and efficient.
-#   - title: Standards
-#     details: We elevate your code quality and consistency with our coding standards, enabling your team to create software that's both reliable and maintainable.
-#   - title: Stacks
-#     details: At our agency, we help you choose the perfect technology stack for your projects effortlessly, thanks to our expert guidance on selecting the right tools and frameworks.
-#   - title: Testing
-#     details: We ensure you deliver robust and flawless applications with our cutting-edge testing practices, making sure your software meets the highest quality standards.
-#   - title: Security
-#     details: At our agency, we safeguard your applications and sensitive data with our security protocols, following industry best practices to protect your digital assets.
-#   - title: Deployment
-#     details: We help you effortlessly deploy and deliver your projects with our streamlined release process, ensuring your clients receive their solutions on time and with precision.
+features:
+  - title: Clear
+    details: Our guide is clear and concise. We use simple language and avoid jargon.
+  - title: Collaborative
+    details: We use a collaborative approach to writing our guide. We use GitHub to manage our content.
+  - title: Reusable
+    details: We use a modular approach to writing our guide. We use Markdown to write our content.
+  - title: Open
+    details: We use an open approach to writing our guide. We use an open source license to share our content.
+  - title: Relevant
+    details: We use a relevant approach to writing our guide. We use a versioning system to manage our content.
+  - title: Accessible
+    details: We use an accessible approach to writing our guide. We use a static site generator to publish our content.
+  - title: Up-to-date
+    details: We use an up-to-date approach to writing our guide. We use a continuous integration system to update our content.
+  - title: Searchable
+    details: We use a searchable approach to writing our guide. We use a search engine to index our content.
+  - title: Responsive
+    details: Mobile first, responsive design. 
 footer: MIT Licensed | Copyrightt © 2023-present Outsoar
 ---
 

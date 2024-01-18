@@ -5,35 +5,37 @@ export const navbar = [
       link: '/guide/',
     },
     {
-        text: 'Services',
+        text: 'Collaboration',
         children: [
             {
-                text: 'Collaboration',
-                link: '/services/collaboration/README.md',
+                text: 'Version Control',
+                link: '/collaboration/version-control/README.md',
                 children: [ 
                     {
-                        text: 'Staff Augmentation',
-                        link: '/services/collaboration/staff-augmentation.md',
+                        text: 'Git',
+                        link: '/collaboration/version-control/git.md',
                     },
                     {
-                        text: 'White Label',
-                        link: '/services/collaboration/white-label.md',
+                        text: 'GitHub',
+                        link: '/collaboration/version-control/github.md',
                     },
-                    {
-                        text: 'Managed Services',
-                        link: '/services/collaboration/managed.md',
-                    }
                 ]
             },
             {
-                text: 'Niche',
-                children: [
+                text: 'Project Management',
+                link: '/collaboration/project-management/README.md',
+                children: [ 
                     {
-                        text: 'Digital Marketing Agency',
-                        link: '/services/niche/digital-marketing-agency.md',
-                    }
-                ],
-            },
+                        text: 'GitHub Project',
+                        link: '/collaboration/project-management/github-project.md',
+                    },
+                    {
+                        text: 'Jira',
+                        link: '/collaboration/project-management/jira.md',
+                    },
+                ]
+            }
+
         ]
     },
 ]

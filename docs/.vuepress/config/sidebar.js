@@ -9,38 +9,37 @@ export const sidebar = {
             ],
         },
       ],
-    '/services/': [
+    '/collaboration/': [
         {
-            text: 'Services',
+            text: 'Collaboration',
             children: [
-                '/services/README.md',
+                '/collaboration/README.md',
                 {
                     collapsible: true,
-                    text: 'Collaboration',
-                    open: true,
+                    text: 'Version Control',
                     children: [
                         {
-                            text: 'Staff Augmentation',
-                            link: '/services/collaboration/staff-augmentation.md',
+                            text: 'Git',
+                            link: '/collaboration/version-control/git.md',
                         },
                         {
-                            text: 'White Label',
-                            link: '/services/collaboration/white-label.md',
+                            text: 'GitHub',
+                            link: '/collaboration/version-control/github.md',
                         },
-                        {
-                            text: 'Managed Services',
-                            link: '/services/collaboration/managed.md',
-                        }
                     ],
                 },
                 {
                     collapsible: true,
-                    text: 'Niche',
+                    text: 'Project Management',
                     children: [
                         {
-                            text: 'Digital Marketing Agency',
-                            link: '/services/niche/digital-marketing-agency.md',
-                        }
+                            text: 'GitHub Project',
+                            link: '/collaboration/project-management/github-project.md',
+                        },
+                        {
+                            text: 'Jira',
+                            link: '/collaboration/project-management/jira.md',
+                        },
                     ],
                 },
             ],
