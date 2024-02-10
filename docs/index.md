@@ -2,7 +2,7 @@
 home: true
 title: Home | Outsoar Playbook
 description: Outsoar Playbooks
-tagline: Our guide to collaborating and coding.
+tagline: Our guide to collaborative coding and project management
 heroHeight: 400
 heroText: Playbook
 heroAlt: Outsoar Playbook
@@ -15,24 +15,34 @@ actions:
     link: /about/
     type: secondary
 features:
-  - title: Clear
-    details: Our guide is clear and concise. We use simple language and avoid jargon.
-  - title: Collaborative
-    details: We use a collaborative approach to writing our guide. We use GitHub to manage our content.
-  - title: Reusable
-    details: We use a modular approach to writing our guide. We use Markdown to write our content.
-  - title: Open
-    details: We use an open approach to writing our guide. We use an open source license to share our content.
-  - title: Relevant
-    details: We use a relevant approach to writing our guide. We use a versioning system to manage our content.
-  - title: Accessible
-    details: We use an accessible approach to writing our guide. We use a static site generator to publish our content.
-  - title: Up-to-date
-    details: We use an up-to-date approach to writing our guide. We use a continuous integration system to update our content.
-  - title: Searchable
-    details: We use a searchable approach to writing our guide. We use a search engine to index our content.
-  - title: Responsive
-    details: Mobile first, responsive design. 
+  - title: "👁 Clear"
+    details: Our guide is clear and concise, utilizing simple language and avoiding jargon.
+  
+  - title: "🤝 Collaborative"
+    details: We adopt a collaborative approach to writing our guide, managing our content through GitHub.
+  
+  - title: "♻️ Reusable"
+    details: Our guide employs a modular approach, written in Markdown for ease of content creation and updates.
+  
+  - title: "🌍 Open"
+    details: We embrace an open approach to our guide, sharing our content under an open source license.
+  
+  - title: "📈 Relevant"
+    details: Our content remains relevant through the use of a versioning system, ensuring it evolves with user needs.
+  
+  - title: "👥 Accessible"
+    details: We ensure our guide is accessible by using a static site generator, making it available to everyone.
+  
+  - title: "⏱ Up-to-date"
+    details: Our guide stays current through the use of continuous integration systems for automatic content updates.
+  
+  - title: "🔎 Searchable"
+    details: We make our guide easily searchable by employing a search engine to index our content.
+  
+  - title: "📱 Responsive"
+    details: Our guide features a mobile-first, responsive design to ensure accessibility on all devices.
+
+
 footer: MIT Licensed | Copyrightt © 2023-present Outsoar
 ---
 

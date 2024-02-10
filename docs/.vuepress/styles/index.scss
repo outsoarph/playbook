@@ -1,0 +1,12 @@
+// change action-button 
+
+.action-button {
+    background-color: var(--c-brand);
+    color: #fff;
+    border: 1px solid var(--c-brand);
+    transition: all 0.3s ease;
+    &:hover {
+        background-color: var(--c-brand-light);
+        border-color: var(--c-brand-light);
+    }
+}

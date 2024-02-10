@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-9bc57248","path":"/services/collaboration/managed.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1699191167000,"contributors":[{"name":"Ashley Solomon","email":"ashcslmn@gmail.com","commits":1}]},"filePathRelative":"services/collaboration/managed.md"}');export{a as data};

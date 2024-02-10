@@ -3,3 +3,10 @@ node_modules
 .cache
 .DS_Store
 .issues.md
+.dist
+# VuePress default temp directory
+.vuepress/.temp
+# VuePress default cache directory
+.vuepress/.cache
+# VuePress default build output directory
+.vuepress/dist

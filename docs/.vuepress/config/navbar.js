@@ -38,4 +38,23 @@ export const navbar = [
 
         ]
     },
+    {
+        text: 'Frontend',
+        children: [
+            {
+                text: 'Getting Started',
+                link: '/frontend/README.md',
+            },
+            {
+                text: 'Vue',
+                link: '/frontend/vue/README.md',
+                children: [ 
+                    {
+                        text: 'Introduction to Vue.js',
+                        link: '/frontend/vue/intro.md',
+                    },
+                ]
+            },
+        ]
+    }
 ]

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-f522a274","path":"/services/offboarding.html","title":"Offboarding","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1699191167000,"contributors":[{"name":"Ashley Solomon","email":"ashcslmn@gmail.com","commits":1}]},"filePathRelative":"services/offboarding.md"}');export{e as data};

@@ -45,4 +45,25 @@ export const sidebar = {
             ],
         },
     ],
+    '/frontend/': [
+        {
+            text: 'Frontend',
+            children: [
+                {
+                    text: 'Getting Started',
+                    link: '/frontend/README.md',
+                },
+                {
+                    collapsible: true,
+                    text: 'Vue',
+                    children: [
+                        {
+                            text: 'Introduction to Vue.js',
+                            link: '/frontend/vue/intro.md',
+                        },
+                    ],
+                },
+            ],
+        },
+    ],
 }
