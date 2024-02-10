@@ -6,7 +6,7 @@ This playbook is a living document that outlines the processes, policies, and pr
 
 ## Inspirations
 
-- [Mashup Garage Playboo](https://www.mashupgarage.com/playbook/)
+- [Mashup Garage Playbook](https://www.mashupgarage.com/playbook/)
 - [Thoughtbot](https://thoughtbot.com/playbook)
 - [Gitlab Playbook](https://about.gitlab.com/handbook/)
 
@@ -17,4 +17,3 @@ Read the [intallation guide](/docs/guide.md) to learn how to setup your local de
 ## License
 
 This project is licensed under the terms of the Creative Commons Attribution-ShareAlike 4.0 International Public License. See [LICENSE](LICENSE) for details.
-
