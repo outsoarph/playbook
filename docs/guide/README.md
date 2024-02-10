@@ -23,7 +23,6 @@ This playbook in clients perspective is like a manual for our service and how we
 
 ## Conduct and Expectations
 
-
 ## Resources
 
 - [Vuepress Documentation](https://vuejs.press/)
