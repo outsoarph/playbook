@@ -24,12 +24,22 @@ For a comprehensive learning path in frontend development, visit [roadmap.sh](ht
 - **Developer Experience**: We ensure a positive developer experience, regardless of the framework or library. We believe that a productive developer leads to better applications and lower costs.
 - **No Bias**: We are framework-agnostic. We choose the right tool for the job, not the most popular one.
 
+## Ecosystem
+
 ```mermaid
-sequenceDiagram
-Alice->John: Hello John, how are you?
-loop every minute
-    John-->Alice: Great!
-end
+graph TB
+  FE["Frontend Ecosystem"]
+  FE --> HTML["HTML"]
+  FE --> CSS["CSS"]
+  FE --> JS["JavaScript"]
+  JS --> React["React"]
+  JS --> Vue["Vue.js"]
+  JS --> Angular["Angular"]
+  JS --> Svelte["Svelte"]
+  CSS --> Tailwind["Tailwind CSS"]
+  CSS --> Bootstrap["Bootstrap"]
+  HTML --> Pug["Pug"]
+  HTML --> Haml["Haml"]
 ```
 
 

@@ -5,6 +5,7 @@ import { navbar } from "./config/navbar";
 import { sidebar } from "./config/sidebar";
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 import { sitemapPlugin } from '@vuepress/plugin-sitemap'
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 export default defineUserConfig({
     lang: "en-US",
@@ -35,6 +36,9 @@ export default defineUserConfig({
         }),
         sitemapPlugin({
             hostname: "https://playbook.outsoar.ph/",
+        }),
+        mdEnhancePlugin({
+            mermaid: true,
         }),
     ],
 })
