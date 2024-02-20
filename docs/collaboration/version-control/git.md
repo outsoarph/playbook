@@ -96,6 +96,20 @@ Some basic Git commands are:
 
  `$ git fetch` retrieve changes from a remote repository without merging them into the local branch.
 
+ `$ git clone [repository URL]` clone a repository into a new directory.
+ 
+ `$ git config [option]` set or get configuration options.
+ 
+ `$ git remote add [name] [URL]` add a new remote repository.
+ 
+ `$ git remote remove [name]` remove a remote repository.
+ 
+ `$ git reset [file]` unstage a file or reset it to the last committed state.
+ 
+ `$ git revert [commit]` create a new commit that undoes the changes made by a previous commit.
+ 
+ `$ git rm [file]` remove a file from the working directory and the index.
+
 ## Resources
 
 - [Git](https://git-scm.com)
