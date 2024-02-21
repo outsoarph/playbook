@@ -58,9 +58,6 @@ Here's a step-by-step overview of how Git works:
  $ git diff
  ```
 
-**9. Resolve Conflicts:** If there are conflicting changes, Git helps you resolve them.
-
-**10. Keep Improving:** Use Git to continuously improve your project, collaborating with others and making changes confidently.
 
 ## Why git is industry standard for version control? Why you should learn git?
 
