@@ -70,7 +70,7 @@ We all need to learn Git in software development. It's highly valued by employer
 
 According to [GitLab](https://about.gitlab.com/topics/version-control/version-control-best-practices/),
 > Using Git best practices, teams can coordinate all changes in a software project and utilize fast branching to help teams quickly collaborate and share feedback, leading to immediate, actionable changes.
- 
+
 
 ## Basic git commands
 
