@@ -58,6 +58,9 @@ Here's a step-by-step overview of how Git works:
  $ git diff
  ```
 
+**9. Resolve Conflicts:** If there are conflicting changes, Git helps you resolve them.
+
+**10. Keep Improving:** Use Git to continuously improve your project, collaborating with others and making changes confidently.
 
 ## Why git is industry standard for version control? Why you should learn git?
 
@@ -92,20 +95,6 @@ Some basic Git commands are:
  `$ git push` upload local commits to a remote repository.
 
  `$ git fetch` retrieve changes from a remote repository without merging them into the local branch.
-
- `$ git clone [repository URL]` clone a repository into a new directory.
- 
- `$ git config [option]` set or get configuration options.
- 
- `$ git remote add [name] [URL]` add a new remote repository.
- 
- `$ git remote remove [name]` remove a remote repository.
- 
- `$ git reset [file]` unstage a file or reset it to the last committed state.
- 
- `$ git revert [commit]` create a new commit that undoes the changes made by a previous commit.
- 
- `$ git rm [file]` remove a file from the working directory and the index.
 
 ## Resources
 
