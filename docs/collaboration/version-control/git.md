@@ -88,18 +88,18 @@ Some basic Git commands are:
 | `$ git diff`             | Show changes between the working directory, staging area, and the last commit.                  |
 | `$ git branch`           | List all branches in the repository.                                                            |
 | `$ git checkout [branch]`| Switch to a different branch.                                                                   |
-| `$ git merge [branch]`   | Merge changes from a specified branch into the current branch.                                   |
-| `$ git remote -v`        | Display a list of remote repositories along with their URLs.                                     |
-| `$ git pull`             | Fetch changes from the remote repository and merge them into the local branch.                   |
-| `$ git push`             | Upload local commits to a remote repository.                                                     |
-| `$ git fetch`            | Retrieve changes from a remote repository without merging them into the local branch.            |
-| `$ git clone [URL]`      | Clone a repository into a new directory.                                                         |
+| `$ git merge [branch]`   | Merge changes from a specified branch into the current branch.                                  |
+| `$ git remote -v`        | Display a list of remote repositories along with their URLs.                                    |
+| `$ git pull`             | Fetch changes from the remote repository and merge them into the local branch.                  |
+| `$ git push`             | Upload local commits to a remote repository.                                                    |
+| `$ git fetch`            | Retrieve changes from a remote repository without merging them into the local branch.           |
+| `$ git clone [URL]`      | Clone a repository into a new directory.                                                        |
 | `$ git config [option]`  | Set or get configuration options.                                                               |
-| `$ git remote add [name] [URL]` | Add a new remote repository.                                                               |
-| `$ git remote remove [name]`    | Remove a remote repository.                                                            |
-| `$ git reset [file]`     | Unstage a file or reset it to the last committed state.                                           |
-| `$ git revert [commit]`  | Create a new commit that undoes the changes made by a previous commit.                            |
-| `$ git rm [file]`        | Remove a file from the working directory and the index.                                           |
+| `$ git remote add [name] [URL]` | Add a new remote repository.                                                             |
+| `$ git remote remove [name]`    | Remove a remote repository.                                                              |
+| `$ git reset [file]`     | Unstage a file or reset it to the last committed state.                                         |
+| `$ git revert [commit]`  | Create a new commit that undoes the changes made by a previous commit.                          |
+| `$ git rm [file]`        | Remove a file from the working directory and the index.                                         |
 
 
 ## Resources
