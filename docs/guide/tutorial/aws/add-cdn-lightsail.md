@@ -79,17 +79,17 @@ If you want a custom domain for your distribution, you can add it to your distri
 ### 10. Route Traffic to Your Distribution
 Once the CDN distribution is created and DNS records are updated or has verified its certificate(if applicable), test your website or application to ensure it's being served through the CDN.
 ![Screenshot create cert popup](./img/your-distribution.png)
-    1. Navigate to `Domains & DNS` tab and select your deployed domain.
-    2. Select the `DNS records tab` and select `Add record`
-    3. The value should be `@`, select `A record` for record type. Copy your deployed distribution link from earlier and paste it to the `Resolves to` input field. Click Save.
+1. Navigate to `Domains & DNS` tab and select your deployed domain.
+2. Select the `DNS records tab` and select `Add record`
+3. The value should be `@`, select `A record` for record type. Copy your deployed distribution link from earlier and paste it to the `Resolves to` input field. Click Save.
 ![Screenshot a-name dist](./img/a-name-distribution.png)
-    4. Add a record again but this time Select `CName record` for record type and `www` for value. Copy your deployed distribution link from earlier and paste it to the `Route traffic to` input field. Click Save.
+4. Add a record again but this time Select `CName record` for record type and `www` for value. Copy your deployed distribution link from earlier and paste it to the `Route traffic to` input field. Click Save.
 ![Screenshot cname dist](./img/c-name-distribution.png)
-    5. Test your website, to see if AWS Cloudfront (CDN) is being used, simply look for an x-cache response header. It will mention Cloudfront (e.g., Hit from Cloudfront or Miss from Cloudfront). 
-        1. To view this, go to the web-page and right click -> Inspect (or hit f12)
-        2. Select the Network tab and reload the page. 
-        3. Select a file look for the response header `x-cache` to see if Cloudfront is being used. If it is, the value will be `Hit from Cloudfront`.
-        - ![Screenshot cname dist](./img/test-cloudfront.png)
+5. Test your website, to see if AWS Cloudfront (CDN) is being used, simply look for an x-cache response header. It will mention Cloudfront (e.g., Hit from Cloudfront or Miss from Cloudfront). 
+    1. To view this, go to the web-page and right click -> Inspect (or hit f12)
+    2. Select the Network tab and reload the page. 
+    3. Select a file look for the response header `x-cache` to see if Cloudfront is being used. If it is, the value will be `Hit from Cloudfront`.
+    - ![Screenshot cname dist](./img/test-cloudfront.png)
 
 ## Congrats
 You have successfully added a CDN to your Lightsail instance. Your website or application should now be served through the CDN, providing improved performance and scalability.
