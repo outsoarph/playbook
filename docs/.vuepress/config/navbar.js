@@ -4,40 +4,7 @@ export const navbar = [
       text: 'Guide',
       link: '/guide/',
     },
-    {
-        text: 'Collaboration',
-        children: [
-            {
-                text: 'Version Control',
-                link: '/collaboration/version-control/README.md',
-                children: [ 
-                    {
-                        text: 'Git',
-                        link: '/collaboration/version-control/git.md',
-                    },
-                    {
-                        text: 'GitHub',
-                        link: '/collaboration/version-control/github.md',
-                    },
-                ]
-            },
-            {
-                text: 'Project Management',
-                link: '/collaboration/project-management/README.md',
-                children: [ 
-                    {
-                        text: 'GitHub Project',
-                        link: '/collaboration/project-management/github-project.md',
-                    },
-                    {
-                        text: 'Jira',
-                        link: '/collaboration/project-management/jira.md',
-                    },
-                ]
-            }
-
-        ]
-    },
+  
     {
         text: 'Frontend',
         children: [
@@ -52,6 +19,25 @@ export const navbar = [
                     {
                         text: 'Introduction to Vue.js',
                         link: '/frontend/vue/intro.md',
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        text: 'Tutorial',
+        children: [
+            {
+                text: 'Getting Started',
+                link: '/tutorial/README.md',
+            },
+            {
+                text: 'AWS',
+                link: '/tutorial/aws/README.md',
+                children: [ 
+                    {
+                        text: 'Adding a CDN to Your Lightsail Instance',
+                        link: '/tutorial/aws/add-cdn-lightsail.md',
                     },
                 ]
             },

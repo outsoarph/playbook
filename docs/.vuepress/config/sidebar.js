@@ -1,69 +1,60 @@
+export const sidebar = [
+	{
+       children: [
+            {
+                text: "Guide",
+                children: ["/guide/README.md", "/guide/setup.md"],
+            },
+        ],
+    },
+    {
+        text: 'Collaboration',
+        children: [
+            {
+                text: 'Version Control',
+                link: '/collaboration/version-control/README.md',
+                children: [ 
+                    {
+                        text: 'Git',
+                        link: '/collaboration/version-control/git.md',
+                    },
+                    {
+                        text: 'GitHub',
+                        link: '/collaboration/version-control/github.md',
+                    },
+                ]
+            },
+            {
+                text: 'Project Management',
+                link: '/collaboration/project-management/README.md',
+                children: [ 
+                    {
+                        text: 'GitHub Project',
+                        link: '/collaboration/project-management/github-project.md',
+                    },
+                    {
+                        text: 'Jira',
+                        link: '/collaboration/project-management/jira.md',
+                    },
+                ]
+            }
 
-export const sidebar = {
-    '/guide/': [
-        {
-            text: 'Guide',
-            children: [
-                '/guide/README.md',
-                '/guide/setup.md',
-            ],
-        },
-      ],
-    '/collaboration/': [
-        {
-            text: 'Collaboration',
-            children: [
-                '/collaboration/README.md',
-                {
-                    collapsible: true,
-                    text: 'Version Control',
-                    children: [
-                        {
-                            text: 'Git',
-                            link: '/collaboration/version-control/git.md',
-                        },
-                        {
-                            text: 'GitHub',
-                            link: '/collaboration/version-control/github.md',
-                        },
-                    ],
-                },
-                {
-                    collapsible: true,
-                    text: 'Project Management',
-                    children: [
-                        {
-                            text: 'GitHub Project',
-                            link: '/collaboration/project-management/github-project.md',
-                        },
-                        {
-                            text: 'Jira',
-                            link: '/collaboration/project-management/jira.md',
-                        },
-                    ],
-                },
-            ],
-        },
-    ],
-    '/frontend/': [
-        {
-            text: 'Frontend',
-            children: [
-                {
-                    text: 'Getting Started',
-                    link: '/frontend/README.md',
-                },
-                {
-                    collapsible: true,
-                    text: 'Vue',
-                    children: [
-                        {
-                            text: 'Introduction to Vue.js',
-                            link: '/frontend/vue/intro.md',
-                        },
-                    ],
-                },
-            ],
-        },
-    ],
-}
+        ]
+    },
+    {
+        children: [
+            {
+                text: "Tutorial",
+                children: ["/guide/tutorial/README.md", "/guide/tutorial/aws/README.md", "/guide/tutorial/aws/add-cdn-lightsail.md"],
+            },
+        ],
+    },
+    {
+        children: [
+            {
+                text: "Commands",
+                children: ["/commands/bash-commands.md", "/commands/vim-commands.md"],
+            },
+        ],
+    }
+]
